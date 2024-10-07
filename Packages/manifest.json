@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "com.developedwithlove.cameracontrol": "file:/Users/ryanboyer/Documents/Unity Projects/Libraries/Assets/Plugins/UnityCameraControl",
+    "com.unity.burst": "1.8.18",
+    "com.unity.ide.visualstudio": "2.0.22",
+    "com.unity.inputsystem": "1.11.1",
+    "com.unity.mathematics": "1.3.2",
+    "com.unity.multiplayer.center": "1.0.0",
+    "com.unity.render-pipelines.universal": "17.0.3",
+    "com.unity.ugui": "2.0.0",
+    "com.unity.modules.accessibility": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.umbra": "1.0.0"
+  }
+}
